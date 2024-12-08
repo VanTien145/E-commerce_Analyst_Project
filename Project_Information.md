@@ -10,3 +10,5 @@
   - Analyzing a small part and providing recommendations to improve customer relationships
 
 - **Technologies used:** Python, Power BI
+
+- **View The Project Presentation**: https://drive.google.com/file/d/1AzV-Wj7NSRLPZDT6jHtCeFIkPy97ZPb2/view?usp=drive_link 
